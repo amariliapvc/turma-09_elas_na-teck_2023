@@ -1,0 +1,25 @@
+
+<!doctype html>
+<html>
+<head>
+    <titler> Ada Lovelace Primeira Mulher Programadora </title>
+</head>
+<body>
+    <h1> História de Ada Lovelace </h1> 
+    <p> Ada Lovelace foi a primeira programadora da história. Desde pequena por influência da 
+mãe se interessou pelo mundo da ciência </p>
+    <h2> Conhecendo a Máquina Analítica </h2>
+    <p> Através de sua tutora Ada Lovelace conheceu o matemático britanico Charles Babbage. E a partir dai se interessou pelo trabalho sobre a Máquina Analítica, um projeto pioneiro sobre computador de uso geral </p>
+    <p> Anos depois, Ana Lovelace foi convidada a traduzir um artigo de Luigi Federico Menabrea, matemático e Engenheiro que falava da pesquisa principal de Babbage </p>
+    <p> As notas de Lovelace foram classificadas alfabeticamente de A a G, e em uma dessas notas especial, a nota G, é conhecida como o primeiro programa (algoritimo) de computador do mundo. Era um algoritmo que computava os números de Bernoulli, e isso rendeu a ela título de primeira programadora da história </p>
+    <p> No entanto, Ana Lovelace além de traduzir, ela complementou o artigo com base nos próprios conhecimentos e com o obejtivo de ampliar a percepção sobre a Máquina Analítica </p>
+    <p> As notas elaboradas por ela originaram um algoritmo desevolvido para ser processado em máquina </p>
+    <h3> Legado de Ada Lovelace </h3>
+    <p> Ana Lovelace só foi reconhecida anos depois do seu falecimento. O reconhecimento por seu trabalho fez ser referencia como a primeira programadora da história, uma vez que seus anotações foram observadas como sendo a primeira descrição de um software </p>
+    <p> A linguagem de programação Ada foi criada em homenagem a ela pelo Departamento de Defesa dos EUA e formalizada em 1980. A associação de Mulheres na Computação criou o Prêmio Ada Lovelace </p>
+    <p> Em 1998, a Associação Britânica de Computação criou a Medalha Lovelace </p>
+    <p> Em 2016, em Londres, foi inaugurada a faculdade Ada National College for Digital Skills, focada em tecnologia, em homenagem a cientista </p>
+    <p> Em julho de 2018, o senador americano Ron Wyden estabeleceu 09 de outubro como Dia Nacional Ada Lovelace, para honrar a contribuição dela </p>
+</body>
+<html>
+
